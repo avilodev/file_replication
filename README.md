@@ -8,7 +8,7 @@ file_replication
     server.c
     server.h
   Makefile
-  newfile.txt
+  newfile.txt  (testing only)
   README
 
 Normal file replication software requires a purchase. Not this software. This program is meant to take a file, given by the client, and have a server replicate it. It also allows up to 10 concurrent clients replicating at the same time.
